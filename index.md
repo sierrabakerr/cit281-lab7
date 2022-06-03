@@ -17,11 +17,9 @@ Part 5: Update and commit lab JavaScript file to practice with error handling
 Part 6: Push your changes to GitHub
 
 
-
 ## Lab Deliverables:
 
-### 1. lab-07.js
-[lab-07.js](lab-07.js)
+### 1. [lab-07.js](lab-07.js)
 
 ### 2. lab-07.png
 ![lab-07.png](lab-07.png)
