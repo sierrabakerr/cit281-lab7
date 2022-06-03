@@ -1,3 +1,7 @@
+/*
+    CIT 281 Lab 7
+    Name: Sierra Baker
+*/
 // class MyError extends Error{
 //     constructor(args){
 //         super(args);
